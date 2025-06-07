@@ -1,5 +1,4 @@
 
-
 # Portfolio Website
 A personal portfolio website to showcase education, skills, projects, and contact information. Built with HTML, CSS, Bootstrap, and JavaScript.
 

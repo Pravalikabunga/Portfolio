@@ -4,7 +4,7 @@ A personal portfolio website to showcase education, skills, projects, and contac
 
 
 # Demo Link
-https://portfolio-git-main-pravalikas-projects-04ad6645.vercel.app/
+ [Demo Link for Project](https://portfolio-git-main-pravalikas-projects-04ad6645.vercel.app/)
 
 
 # Table of Contents

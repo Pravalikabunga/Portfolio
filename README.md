@@ -7,16 +7,6 @@ A personal portfolio website to showcase education, skills, projects, and contac
  [Demo Link for Project](https://portfolio-git-main-pravalikas-projects-04ad6645.vercel.app/)
 
 
-# Table of Contents
-- Features
-- Project Structure
-- How to Run
-- Customization
-- Dependencies
-- Responsive Design
-- How to Run
-
-
 # Customization
 - #### Profile & Social Links :-
 Update your name, profile image, and social URLs in index.html.
